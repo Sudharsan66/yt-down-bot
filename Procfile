@@ -1,1 +1,1 @@
-web: python Youtube-DL.py ${PORT}
+bot: python3 bot.py
